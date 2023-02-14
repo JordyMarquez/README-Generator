@@ -29,7 +29,7 @@ function init() {
         },
         {
             type: 'input',
-            message: 'How would you desribe the application/website',
+            message: 'How would you describe the application/website',
             name: 'description',
 
         },
